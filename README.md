@@ -16,4 +16,5 @@ Titlebar icons come from [andreyorst's Breezemite](https://github.com/andreyorst
 
 ### Screenshots:
 
-*wait until after initial commit*
+![](https://i.imgur.com/riqzcbX.png)
+![](https://i.imgur.com/b5rOkQX.png)
